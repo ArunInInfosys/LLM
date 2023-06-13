@@ -1,0 +1,250 @@
+Why DevOps Teams Need Cloud-Based Solutions
+By Shreya Bose, Community Contributor - October 3, 2022
+
+LinkedIn Facebook Twitter WhatsApp
+In 2021, 83% of IT decision-makers reported implementing DevOps practices to unlock higher business value. Moreover, the DevOps market is expected to expand from $2.9 billion to $8 billion by 2022.
+
+As DevOps becomes a fixture in software development, it is bringing about another phenomenon that promises to be just as much a default as DevOps currently is: cloud-based solutions. Using tools, frameworks, and infrastructure hosted on the cloud is almost synonymous with effective DevOps implementation – and for a good reason. 
+
+This article will go into those reasons, explore the many advantages of using cloud computing in a DevOps context, and highlight how testing, in particular, can be simpler, faster, and more value-driven on the cloud. 
+
+Table of Contents
+Cloud-based DevOps – What does it mean?
+Advantages of Cloud-based Solutions for DevOps teams
+Real Device Testing on the Cloud
+Cloud-based DevOps – What does it mean?
+At its heart, DevOps enables software development teams to reduce the time and effort required to build, test and deploy quality software. It accomplishes this by creating collaboration between development and operation teams, minimizing conflict (“works on my machine”), and cutting down on the back and forth that occurs when teams are not on the same page at all times.
+
+To leverage the best of DevOps, teams must use various tools and practices to facilitate better communication, transparency, and lower instances of human error. This is best achieved through extensive automation – one of the key principles of establishing DevOps. Automation allows you to get more work done without burning people out. 
+
+Effective automation requires the right tools, not just for the SDLC but also for ancillary purposes like reporting bugs, documenting requirements, quick communication between teams, etc. These tools must keep up with the breakneck pace of technological innovation and changes in user expectations, especially that of frequent software releases and updates. 
+
+Why DevOps Teams Need Cloud-Based Solutions
+Turns out, this is where cloud computing is most effective. Cloud-based DevOps essentially refers to the practice of using tools and solutions hosted on a cloud instead of being on-premise. Even though they operate on the cloud, the tools are secure from unauthorized access and are able to fit into DevOps pipelines with minimal hassle. By choosing and using cloud-based solutions built to align with DevOps-first workflows, teams can get the most out of this radical principle that gets results. 
+Also Read: What is Cloud Testing
+
+Advantages of Cloud-based Solutions for DevOps teams
+There are many reasons for DevOps teams to adopt cloud-hosted solutions, but the following are universal ones that stand out:
+
+Ease of adoption: Any tool is easier to adopt if it’s hosted on the cloud. You purchase a plan, access the cloud platform, and configure and set up the tool with vendor support, if necessary. Imagine the time and effort it would take if you wanted to set up a tool that performs the same on-premise activities. At the very least, you’d have to purchase server space to host said tool. You’d also need dedicated personnel to ensure that the hardware and software configurations are necessary for it to stay consistently functional. Then, there’s the requirement for expert support in case of any malfunction, downtime, or inexplicable anomaly in the tool’s functioning. By the time you’ve set up a tool well enough to cater to the demands of a modern SDLC, you’ve lost precious time actually developing your product.
+Centralization: DevOps principles apply across the development pipeline – coding, builds, testing, deployment, and post-production monitoring – all of which require one or more different tools to accomplish. When hosted on the cloud, these tools exist in a centralized architecture that can be. quickly and easily accessed by all relevant teams from anywhere at any time. Once again, this cuts down on time, effort, and friction that would exist if teams had to jump through hoops to access the tools they need. 
+Scalability: Let’s say that at the beginning of your DevOps project, you had to test your software on 10 iPhone versions. Then the iPhone 14 came along, everyone loved it, and you realized that your apps and sites must run flawlessly on it to meet customer preferences. With an on-premise device lab, you’d have to get budgetary approval for the new device, purchase it, and set it up for manual and automated testing. If you chose a cloud-based testing solution like BrowserStack, you wouldn’t be doing any of that since BrowserStack proactively added iPhone 14 to its real device cloud. You’d just get a notification of this addition and expand your device coverage to include the iPhone 14. No extra effort or cost is involved. 
+Try BrowserStack now
+
+Apply this logic to all tools in your DevOps architecture, and it becomes evident that cloud-based solutions allow for quicker, easier, and more efficient scaling as compared to in-house options.
+Lower cost of ownership: As explained in the first point, it is much cheaper and more effort-effective to purchase cloud-based tools instead of setting them up in-house. The cost required to set up server space, purchase requisite devices and hardware, configure relevant software, and provide access mechanisms across different teams is bound to be immense – and almost always unfeasible for small teams and businesses. You only pay for what you need when you need it. With cloud-based tools; you can upscale and downscale as necessary. To use the example of testing once again, you can choose plans and pricing based on the number of devices you need to test on or whether you need just manual testing or both manual and automated. You simply pay or what you want for a particular project, sprint, or dev cycle – not what may be required for future projects and projected customer requirements.
+Must Read: How to decide between in-house lab or cloud solution
+
+Greater stability and uptime: The cloud provider you choose will prioritize the stability and uptime of their infrastructure. The vendor will focus on maintaining, updating, and smoothing out issues while the team works to refine and streamline development, integration, testing, and monitoring. Without their attention being split, teams can innovate and build pipelines that actively produce better software, achieve faster time to market, and prioritize customer satisfaction.
+Easier collaboration & automation: At every step of the DevOps operation, cloud computing promotes better collaboration. Team members no longer have to spend time sending files back and forth between each other, and other teams. Simultaneous development by multiple individuals becomes easy without anyone stepping on other devs’ toes. Most importantly, cloud computing facilitates remote workspaces. With everything on the cloud, no one has to go to the office anymore to get work done.
+
+It is also easier to execute automated processes on the cloud. Not only is your team spared the effort of setting up server availability and installing and configuring necessary tools, they can quickly run automated tests using diverse frameworks (Selenium, Cypress, Playwright,  Puppeteer) with minimal setup. By easing up on the grunt work, cloud-based automation lets humans focus on tasks that require judgment, innovation, and imagination. It also lowers the likelihood of human error, which occurs at a higher possibility when someone has to deal with tedious, repetitive tasks on a daily basis. 
+Real Device Testing on the Cloud
+BrowserStack provides the industry-best infra for cloud-based testing on real browsers, devices, and operating systems. Given the centrality of DevOps to modern software development, our real device cloud has been built and designed to align with DevOps-driven workflows.
+
+For example, the BrowserStack cloud offers integrations with popular CI/CD tools – Jenkins, Travis CI, TeamCity, Bamboo, Azure Pipelines, Circle CI, GitLab, and more.
+
+Then there are integrations designed to facilitate automated testing for websites and apps – Appium, Espresso, XCUITest, EarlGrey, Playwright,  Puppeteer.
+
+At the center of our cloud sits 3000+ real browsers, devices, and operating systems. Thousands of desktop and mobile devices, installed with multiple versions of popular browsers as well as operating systems are perpetually in readiness to be tested on. Whether you’re aiming to run manual or automated tests for websites or apps, you’ll find pristine, secure devices prepped for the same. Simply feed your test scripts, and get 100% accurate results of tests executed in real user conditions. 
+
+Try BrowserStack now
+
+To align with the changing requirements of customers as well as search engines, the BrowserStack is being constantly updated to offer newer features and abilities. For example, you can run speed tests to verify how fast your website loads across different browser-device-OS combinations – important since both users and Google expects sites to load within a few seconds.
+
+Testers can also run accessibility tests, ensuring that their software is usable by individuals who might be differently abled. This is important since many countries have passed legislation that requires online assets to accommodate the needs of physically challenged users. 
+
+Moreover, since fast time to release is imperative to maintain a competitive edge in online markets, BrowserStack enables parallel testing. QA personnel can run automated tests across multiple browsers and devices simultaneously, cutting down on the time that linear tests would take.
+
+There are multiple other features that make BrowserStack an ideal cloud-based testing solution for DevOps teams. Have a look at them below:
+
+Manual Website Testing Features
+Automated Website Testing Features
+Manual App Testing Features
+Automated App Testing Features
+If you’re still not convinced, simply sign up on BrowserStack for free, and run a few tests. You’ll know exactly how our cloud can offer a distinct advantage when integrated into your DevOps team.
+
+
+DevOps is a set of practices that combines software development (Dev) and IT operations (Ops). It aims to shorten the systems development life cycle and provide continuous delivery with high quality. DevOps is a cultural movement that emphasizes communication, collaboration, and shared responsibility between development and operations teams.
+
+The history of DevOps can be traced back to the early 2000s, when a group of IT professionals began to explore ways to improve the way software was developed and deployed. These early pioneers recognized that the traditional waterfall approach to software development was no longer sustainable in the face of the ever-increasing pace of change.
+
+In 2007, Patrick Debois coined the term "DevOps" at a conference in Belgium. Debois defined DevOps as "a culture, movement, or practice that emphasizes the collaboration and communication of both software developers and other information-technology (IT) professionals while automating the process of software delivery and infrastructure changes."
+
+DevOps has quickly gained popularity in recent years, as businesses have realized the benefits of this approach. Some of the key benefits of DevOps include:
+
+Increased speed and agility: DevOps can help businesses to deliver software more quickly and frequently, which can give them a competitive advantage.
+Improved quality: DevOps can help to improve the quality of software by reducing the number of defects and by ensuring that software is tested and deployed in a continuous manner.
+Reduced costs: DevOps can help to reduce the costs associated with software development and deployment by automating many of the manual tasks involved.
+Increased customer satisfaction: DevOps can help to improve customer satisfaction by providing them with access to new features and bug fixes more quickly.
+If you are looking for ways to improve the way your organization develops and deploys software, then DevOps is a great place to start. By adopting DevOps practices, you can improve your speed, agility, quality, costs, and customer satisfaction.
+
+Here are some of the key DevOps practices:
+
+Continuous integration (CI): CI is a practice where developers regularly integrate their code into a shared repository. This allows for early detection of errors and helps to ensure that the code is always in a working state.
+Continuous delivery (CD): CD is a practice where software is automatically deployed to production after it has been successfully integrated. This allows for continuous feedback from users and helps to ensure that the software is always up-to-date.
+Infrastructure as code (IaC): IaC is a practice where infrastructure is defined in code. This allows for infrastructure to be treated as code and to be managed using the same tools and processes as software.
+Monitoring and alerting: Monitoring and alerting are essential for ensuring that systems are running smoothly and that any problems are detected and resolved quickly.
+Culture: DevOps is not just about tools and processes. It is also about culture. DevOps organizations are characterized by a culture of collaboration, communication, and shared responsibility.
+If you are interested in learning more about DevOps, there are many resources available online. You can also find many books and articles on the topic.
+
+DevOps
+
+Article
+Talk
+Read
+Edit
+View history
+
+Tools
+Page protected with pending changes
+From Wikipedia, the free encyclopedia
+DevOps is a methodology in the software development and IT industry. Used as a set of practices and tools, DevOps integrates and automates the work of software development (Dev) and IT operations (Ops) as a means for improving and shortening the systems development life cycle.[1] DevOps is complementary to agile software development; several DevOps aspects came from the agile way of working.
+
+Definition
+Other than it being a cross-functional combination (and a portmanteau) of the terms and concepts for "development" and "operations", academics and practitioners have not developed a universal definition for the term "DevOps".[a][b][c][d] Most often, DevOps is characterized by key principles: shared ownership, workflow automation, and rapid feedback.
+
+From an academic perspective, Len Bass, Ingo Weber, and Liming Zhu—three computer science researchers from the CSIRO and the Software Engineering Institute—suggested defining DevOps as "a set of practices intended to reduce the time between committing a change to a system and the change being placed into normal production, while ensuring high quality".[5]
+
+However, the term is used in multiple contexts. At its most successful, DevOps is a combination of specific practices, culture change, and tools.[6]
+
+History
+Proposals to combine software development methodologies with deployment and operations concepts began to appear in the late 80s and early 90s.[7]
+
+Around 2007 and 2008, concerns were raised by those within the software development and IT communities that the separation between the two industries, where one wrote and created software entirely separate from those that deploy and support the software was creating a fatal level of dysfunction within the industry.[8]
+
+In 2009, the first conference named DevOps Days was held in Ghent, Belgium. The conference was founded by Belgian consultant, project manager and agile practitioner Patrick Debois.[9][10] The conference has now spread to other countries.[11]
+
+In 2012, a report called “State of DevOps” was first published by Alanna Brown at Puppet Labs.[12][13]
+
+As of 2014, the annual State of DevOps report was published by Nicole Forsgren, Gene Kim, Jez Humble and others. They stated that the adoption of DevOps was accelerating.[14][15] Also in 2014, Lisa Crispin and Janet Gregory wrote the book More Agile Testing, containing a chapter on testing and DevOps.[16][17]
+
+In 2016, the DORA metrics for throughput (deployment frequency, lead time for changes), and stability (mean time to recover, change failure rate) were published in the State of DevOps report.[12]
+
+Relationship to other approaches
+Many of the ideas fundamental to DevOps practices are inspired by, or mirror, other well known practices such as Lean and Deming's Plan-Do-Check-Act cycle, through to The Toyota Way and the Agile approach of breaking down components and batch sizes.[18] Contrary to the "top-down" proscriptive approach and rigid framework of ITIL in the 1990s, DevOps is "bottom-up" and a flexible practice, created by software engineers, with software engineer needs in mind.[19]
+
+Agile
+Main article: Agile software development
+The motivations for what has become modern DevOps and several standard DevOps practices such as automated build and test, continuous integration, and continuous delivery originated in the Agile world, which dates (informally) to the 1990s, and formally to 2001. Agile development teams using methods such as extreme programming couldn't "satisfy the customer through early and continuous delivery of valuable software"[20] unless they subsumed the operations / infrastructure responsibilities associated with their applications, many of which they automated. Because Scrum emerged as the dominant Agile framework in the early 2000s and it omitted the engineering practices that were part of many Agile teams, the movement to automate operations / infrastructure functions splintered from Agile and expanded into what has become modern DevOps. Today, DevOps focuses on the deployment of developed software, whether it is developed using Agile oriented methodologies or other methodologies.
+
+ArchOps
+ArchOps presents an extension for DevOps practice, starting from software architecture artifacts, instead of source code, for operation deployment.[21] ArchOps states that architectural models are first-class entities in software development, deployment, and operations.
+
+CI/CD
+Main article: CI/CD
+Automation is a core principle for achieving DevOps success and CI/CD is a critical component.[22] Plus, improved collaboration and communication between and within teams helps achieve faster time to market, with reduced risks.[23]
+
+Site-reliability engineering
+Main article: Site reliability engineering
+In 2003, Google developed site reliability engineering (SRE), an approach for releasing new features continuously into large-scale high-availability systems while maintaining high-quality end-user experience.[24] While SRE predates the development of DevOps, they are generally viewed as being related to each other.
+
+Toyota production system, lean thinking, kaizen
+Main article: Toyota Production System
+Toyota production system, also known under the acronym TPS, was the inspiration for lean thinking with its focus on continuous improvement, kaizen, flow and small batches. The andon cord principle to create fast feedback, swarm and solve problems stems from TPS.[25][26]
+
+DevSecOps, shifting security left
+DevSecOps is an augmentation of DevOps to allow for security practices to be integrated into the DevOps approach. Contrary to a traditional centralized security team model, each delivery team is empowered to factor in the correct security controls into their software delivery. Security practices and testing are performed earlier in the development lifecycle, hence the term "shift left". Security is tested in three main areas: static, software composition, and dynamic.
+
+Checking software statically via static application security testing (SAST) is white-box testing with special focus on security. Depending on the programming language, different tools are needed to do such static code analysis. The software composition is analyzed, especially libraries, and the version of each component is checked against vulnerability lists published by CERT and other expert groups. When giving software to clients, library licenses and their match to the license of the software distributed are in focus, especially copyleft licenses.
+
+In dynamic testing, also called black-box testing, software is tested without knowing its inner functions. In DevSecOps this practice may be referred to as dynamic application security testing (DAST) or penetration testing. The goal is early detection of defects including cross-site scripting and SQL injection vulnerabilities. Threat types are published by the open web application security project, e.g. its TOP10[27], and by other bodies. In some cases, especially with microservices, interactive application security testing (IAST) is helpful to check which code is executed when running automated functional tests. The focus here is to detect vulnerabilities within the applications. In contrast to SAST and DAST, IAST works inside the application.
+
+DevSecOps has also been described as a cultural shift involving a holistic approach to producing secure software by integrating security education, security by design, and security automation.[28]
+
+Cultural change
+DevOps initiatives can create cultural changes in companies[29] by transforming the way operations, developers, and testers collaborate during the development and delivery processes.[30] Getting these groups to work cohesively is a critical challenge in enterprise DevOps adoption.[31][32] DevOps is as much about culture, as it is about the toolchain.[33]
+
+Microservices
+Although in principle it is possible to practice DevOps with any architectural style, the microservices architectural style is becoming the standard for building continuously deployed systems. Small size service allows the architecture of an individual service to emerge through continuous refactoring.[34]
+
+DevOps automation
+It also supports consistency, reliability, and efficiency within the organization, and is usually enabled by a shared code repository or version control. As DevOps researcher Ravi Teja Yarlagadda hypothesizes, "Through DevOps, there is an assumption that all functions can be carried out, controlled, and managed in a central place using a simple code."[35]
+
+Automation with version control
+Many organizations use version control to power DevOps automation technologies like virtual machines, containerization (or OS-level virtualization), and CI/CD. The paper "DevOps: development of a toolchain in the banking domain" notes that with teams of developers working on the same project, "All developers need to make changes to the same codebase and sometimes edit even the same files. For efficient working, there has to be a system that helps engineers avoid conflicts and retain the codebase history,"[36] with the Git version control system and the GitHub platform referenced as examples.
+
+GitOps
+[icon]	
+This section needs expansion. You can help by adding to it. (April 2022)
+GitOps evolved from DevOps.[37][38][39] The specific state of deployment configuration is version-controlled. Because the most popular version-control is Git, GitOps' approach has been named after Git.[40][41][42] Changes to configuration can be managed using code review practices, and can be rolled back using version-controlling. Essentially, all of the changes to a code are tracked, bookmarked, and making any updates to the history can be made easier.[43] As explained by Red Hat, "visibility to change means the ability to trace and reproduce issues quickly, improving overall security."[43]
+
+See also
+DataOps
+DevOps toolchain
+Twelve-factor app
+Infrastructure as code
+Lean software development
+Value stream
+Notes
+ Dyck et al. (2015) "To our knowledge, there is no uniform definition for the terms release engineering and DevOps. As a consequence, many people use their own definitions or rely on others, which results in confusion about those terms."[2]
+ Jabbari et al. (2016) "The research results of this study showed the need for a definition as individual studies do not consistently define DevOps."[3]
+ Erich et al. (2017) "We noticed that there are various gaps in the study of DevOps: There is no consensus of what concepts DevOps covers, nor how DevOps is defined."[4]
+ Erich et al. (2017) "We discovered that there exists little agreement about the characteristics of DevOps in the academic literature."[4]
+References
+ Courtemanche, Meredith; Mell, Emily; Gills, Alexander S. "What Is DevOps? The Ultimate Guide". TechTarget. Retrieved 2023-01-22.
+ Dyck, Andrej; Penners, Ralf; Lichter, Horst (2015-05-19). "Towards Definitions for Release Engineering and DevOps". Proceedings of the 2015 IEEE/ACM 3rd International Workshop on Release Engineering. IEEE: 3. doi:10.1109/RELENG.2015.10. ISBN 978-1-4673-7070-7. S2CID 4659735.
+ Jabbari, Ramtin; bin Ali, Nauman; Petersen, Kai; Tanveer, Binish (May 2016). "What is DevOps?: A Systematic Mapping Study on Definitions and Practices". Proceedings of the 2016 Scientific Workshop. Association for Computing Machinery.
+ Erich, F.M.A.; Amrit, C.; Daneva, M. (June 2017). "A Qualitative Study of DevOps Usage in Practice". Journal of Software: Evolution and Process. 29 (6): e1885. doi:10.1002/smr.1885. S2CID 35914007.
+ Bass, Len; Weber, Ingo; Zhu, Liming (2015). DevOps: A Software Architect's Perspective. ISBN 978-0134049847.
+ Muñoz, Mirna; Negrete Rodríguez, Mario (April 2021). "A guidance to implement or reinforce a DevOps approach in organizations: A case study".
+ Chapman, M., Gatti, N: A model of a service life cycle, Proceedings of TINA '93, pp. I-205–I-215, Sep., 1993.
+ Atlassian. "History of DevOps". Atlassian. Retrieved 2023-02-23.
+ Mezak, Steve (25 January 2018). "The Origins of DevOps: What's in a Name?". devops.com. Retrieved 6 May 2019.
+ Debois, Patrick (9 October 2008). "Agile 2008 Toronto". Just Enough Documented Information. Retrieved 12 March 2015.
+ Debois, Patrick. "DevOps Days". DevOps Days. Retrieved 31 March 2011.
+ Alana Brown; Nicole Forsgren; Jez Humble; Nigel Kersten; Gene Kim (2016). "2016 State of DevOps Report" (PDF). Puppet Labs, DORA (DevOps Research. Retrieved 2019-05-06.
+ "Puppet - Alanna Brown". Puppet Labs. Retrieved 2019-04-27.
+ Nicole Forsgren; Gene Kim; Nigel Kersten; Jez Humble (2014). "2014 State of DevOps Report" (PDF). Puppet Labs, IT Revolution Press and ThoughtWorks. Retrieved 2019-04-27.
+ "2015 State of DevOps Report" (PDF). Puppet Labs, Pwc, IT Revolution Press. 2015. Retrieved 2019-05-06.
+ "More Agile Testing" (PDF). October 2014. Retrieved 2019-05-06.
+ Crispin, Lisa; Gregory, Janet (October 2014). More Agile Testing. ISBN 9780133749571. Retrieved 2019-05-06.
+ Klein, Brandon Thorin (2021-05-01). "The DevOps: A Concise Understanding to the DevOps Philosophy and Science". doi:10.2172/1785164. OSTI 1785164. S2CID 236606284.
+ "The History and Evolution of DevOps | Tom Geraghty". Retrieved 2020-11-29.
+ "Principles behind the Agile Manifesto". agilemanifesto.org. Retrieved 2020-12-06.
+ Castellanos, Camilo; Correal, Dario (15 September 2018). Executing Architectural Models for Big Data Analytics. Lecture Notes in Computer Science. Vol. 11048. pp. 364–371. doi:10.1007/978-3-030-00761-4_24. ISBN 978-3-030-00760-7.
+ Humble, Jez; Farley, David (2011). Continuous Delivery: reliable software releases through build, test, and deployment automation. Pearson Education Inc. ISBN 978-0-321-60191-9.
+ Chen, Lianping (2015). "Continuous Delivery: Huge Benefits, but Challenges Too". IEEE Software. 32 (2): 50–54. doi:10.1109/MS.2015.27. S2CID 1241241.
+ Beyer, Betsy; Jones, Chris; Petoff, Jennifer; Murphy, Niall Richard (April 2016). Site Reliability Engineering. O'Reilly Media. ISBN 978-1-4919-2909-4.
+ Analyzing the DNA of DevOps, Brent Aaron Reed, Willy Schaub, 2018-11-14.
+ The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations, Gene Kim, Patrick Debois, John Willis, Jezz Humble, 2016
+ "OWASP TOP10". Archived from the original on June 8, 2023. Retrieved June 8, 2023.
+ Wilson, Glenn (December 2020). 'DevSecOps: A leader's guide to producing secure software with compromising flow, feedback and continuous improvement'. Rethink Press. ISBN 978-1781335024.
+ Emerging Technology Analysis: DevOps a Culture Shift, Not a Technology (Report). Gartner.
+ Loukides, Mike (7 June 2012). "What is DevOps?". O'Reilly Media.
+ "Gartner IT Glossary – devops". Gartner. Retrieved 30 October 2015.
+ Jones, Stephen; Noppen, Joost; Lettice, Fiona (21 July 2016). Proceedings of the 2nd International Workshop on Quality-Aware Dev Ops - QUDOS 2016 (PDF). pp. 7–11. doi:10.1145/2945408.2945410. ISBN 9781450344111. S2CID 515140.
+ Mandi Walls (25 September 2015). "Building a DevOps culture". O'Reilly.
+ Chen, Lianping; Ali Babar, Muhammad (2014). "2014 IEEE/IFIP Conference on Software Architecture". The 11th Working IEEE/IFIP Conference on Software Architecture(WICSA 2014). IEEE. pp. 195–204. doi:10.1109/WICSA.2014.45. ISBN 978-1-4799-3412-6.
+ Teja Yarlagadda, Ravi (9 March 2021). "DevOps and Its Practices". SSRN 3798877.
+ Morisio, Maurizio (16 April 2021). DevOps: development of a toolchain in the banking domain. Politecnico di Torino (laurea). Retrieved 16 August 2021.
+ "Getting Started with GitOps". TheNewStack.io. 13 December 2021. Retrieved 5 April 2022.
+ "GitOps Workflows and Principles for Kubernetes". ContainerJournal.com. 1 April 2022. Retrieved 5 April 2022.
+ "Kubernetes at Scale without GitOps Is a Bad Idea". TheNewStack.io. 7 March 2022. Retrieved 5 April 2022.
+ "Top 5 Challenges in Modern Kubernetes Testing". TheNewStack.io. 11 March 2022. Retrieved 5 April 2022.
+ "The world's largest telcos are now embracing GitOps. Deutsche Telekom explains why".
+ "Can 'shift left' in DevOps pipelines go too far?". Techtarget.com. Retrieved 5 April 2022.
+ "What is GitOps?". www.redhat.com. Retrieved 2023-03-30.
+Further reading
+Davis, Jennifer; Daniels, Ryn (2016-05-30). Effective DevOps : building a culture of collaboration, affinity, and tooling at scale. Sebastopol, CA: O'Reilly. ISBN 9781491926437. OCLC 951434424.
+Kim, Gene; Debois, Patrick; Willis, John; Humble, Jez; Allspaw, John (2015-10-07). The DevOps handbook : how to create world-class agility, reliability, and security in technology organizations (First ed.). Portland, OR. ISBN 9781942788003. OCLC 907166314.
+Forsgren, Nicole; Humble, Jez; Kim, Gene (27 March 2018). Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations (First ed.). IT Revolution Press. ISBN 9781942788331.
+vte
+Software engineering
+Fields	
+Computer programmingDevOpsFormal methodsRequirements engineeringSite reliability engineeringSoftware deploymentSoftware designSoftware maintenanceSoftware testingSystems analysis
+Concepts	
+Data modelingEnterprise architectureFunctional specificationModeling languageProgramming paradigmSoftwareSoftware archaeologySoftware architectureSoftware configuration managementSoftware development process/methodologySoftware qualitySoftware quality assuranceSoftware verification and validationStructured analysis Essential analysisCI/CD
+Orientations	
+AgileAspect-orientedObject orientationOntologyService orientationSDLC
+Models	
+Developmental	
+AgileEUPExecutable UMLIncremental modelIterative modelPrototype modelRADUPScrumSpiral modelV-ModelWaterfall modelXP
+Other	
+SPICECMMIData modelER modelFunction modelInformation modelMetamodelingObject modelSystems modelView model
+Languages	
+IDEFUMLUSLSysML
+Related fields	
+Computer scienceComputer engineeringInformation scienceProject managementRisk managementSystems engineering
+ Commons Category
+Categories: Agile software developmentSoftware development processInformation technology managementSoftware development
